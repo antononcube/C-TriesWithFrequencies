@@ -1,5 +1,5 @@
 
-# Implementation
+## C implementation
 
 When using the following prompt with Codex and "ChatGPT-5.6-Terra" the "Java-src" directory had the code
 of the Java package ["Java-TriesWithFrequencies"](https://github.com/antononcube/Java-TriesWithFrequencies).
@@ -10,3 +10,15 @@ Carefully analyze the Java code in Java-src of the TriesWithFrequencies data str
 - Tests in the directory "t"
 - Suitable example script in the directory "examples"
 ``` 
+
+----
+
+## Wolfram Language (WL) bindings
+
+
+```text
+In the directory "bindings/wolfram" generate the FFI / LibraryLink code for binding the C-language
+implementation of "TriesOfFrequencies.h" and "TriesOfFrequencies.mc" into Wolfram Language (WL).
+Name the corresponding WL package "CTriesWithFrequencies".
+Generate a README that guides installation and usage.
+```
