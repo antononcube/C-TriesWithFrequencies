@@ -22,3 +22,12 @@ implementation of "TriesOfFrequencies.h" and "TriesOfFrequencies.mc" into Wolfra
 Name the corresponding WL package "CTriesWithFrequencies".
 Generate a README that guides installation and usage.
 ```
+
+---
+
+## Profiling script
+
+```text
+In the directory "examples" make the performance .c file and .sh driver corresponding to this Raku performance test: 
+https://raw.githubusercontent.com/antononcube/Raku-ML-TriesWithFrequencies/refs/heads/main/examples/Trie-creation-profiling.raku
+```
